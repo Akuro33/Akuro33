@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artur Zabieglinski 
-- 👀 I’m interested in gaming, programing, Fantasy & Manga, baseball.
+- 👀 I’m interested in gaming, programing, RPG, Fantasy & Manga, baseball.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me by: You can do it by Git or LinkedIn
 
